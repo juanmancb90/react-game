@@ -42,7 +42,7 @@ ol, ul {
 }
 
 .game {
-  display: flex;
+  display: block;
   flex-direction: row;
 }
 
